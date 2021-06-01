@@ -8,4 +8,4 @@
 2) UPDATE table SET row1=test11
    WHERE row1=test1
 
-3) DROP FROM table WHERE id=1
+3) DELETE FROM table WHERE id=1
