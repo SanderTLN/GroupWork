@@ -6,9 +6,3 @@
    WHERE row1=test1
 3. Составить запрос на удаление записи в таблице
 3) DROP FROM table WHERE id=1
-
-
-2) CHANGE table SET row1=test11
-   WHERE row1=test1
-
-3) DROP FROM table WHERE id=1
